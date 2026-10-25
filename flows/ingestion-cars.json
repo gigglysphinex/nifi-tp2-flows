@@ -3090,7 +3090,7 @@
         "Include Zero Record FlowFiles" : "true",
         "Default Decimal Scale" : "0",
         "Record Writer" : "547a971a-5654-3e0d-b4c0-4f2c59fa0b56",
-        "Record Reader" : "207a5046-33a6-3bbf-8119-5f222e921200",
+        "Record Reader" : "d25df646-4098-3a07-9425-4436147b5e94",
         "Default Decimal Precision" : "10",
         "japon" : "SELECT * FROM FLOWFILE WHERE Origin = 'Japan'"
       },
@@ -3811,6 +3811,6 @@
   "parameterProviders" : { },
   "snapshotMetadata" : {
     "flowIdentifier" : "ingestion-cars",
-    "timestamp" : 1792942520650
+    "timestamp" : 1792957177725
   }
 }
